@@ -1,0 +1,337 @@
+[
+  {
+    "id": "cap_moabfami_wy4h2v",
+    "selector": "h1.heading-style-h1",
+    "label": "Dental Billing on Autopilot",
+    "tag": "h1",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T17:17:17.322Z",
+    "innerText": "Dental Billing on\nAutopilot",
+    "outerHTML": "<h1 class=\"heading-style-h1\">Dental Billing on <br>Autopilot</h1>",
+    "rect": {
+      "x": 654,
+      "y": 48,
+      "width": 421,
+      "height": 118
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "420.953px",
+      "height": "117.594px",
+      "border": "0px none rgb(23, 51, 45)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(23, 51, 45)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "58.8px",
+      "line-height": "58.8px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "h1",
+        "css": "margin: 0.67em 0px; font-size: 2em;"
+      },
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": "h1, h2, h3, h4, h5, h6",
+        "css": "margin-bottom: 10px; font-weight: 700;"
+      },
+      {
+        "selector": "h1",
+        "css": "margin-top: 20px; font-size: 38px; line-height: 44px;"
+      },
+      {
+        "selector": "h1",
+        "css": "font-size: var(--heding--h1); margin-top: 0px; margin-bottom: 0px; font-weight: 400; line-height: 1;"
+      },
+      {
+        "selector": ".heading-style-h1",
+        "css": "font-size: var(--heding--h1); line-height: 1;"
+      },
+      {
+        "selector": ".heading-style-h1",
+        "css": "font-size: 2.5rem;",
+        "media": "screen and (max-width: 767px)"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      },
+      {
+        "selector": "h1, h2, h3, h4, h5, h6",
+        "css": "text-wrap: balance;"
+      }
+    ]
+  },
+  {
+    "id": "cap_moabfbyz_jhfr93",
+    "selector": "p.text-size-regular",
+    "label": "Full-service dental billing that frees u…",
+    "tag": "p",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T17:17:19.067Z",
+    "innerText": "Full-service dental billing that frees up your time for clinical and patient experience.",
+    "outerHTML": "<p class=\"text-size-regular\">Full-service dental billing that frees up your time for clinical and patient experience.</p>",
+    "rect": {
+      "x": 491,
+      "y": 192,
+      "width": 747,
+      "height": 26
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "746.758px",
+      "height": "26.3828px",
+      "border": "0px none rgb(23, 51, 45)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(23, 51, 45)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "20.3px",
+      "line-height": "26.39px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": "p",
+        "css": "margin-top: 0px; margin-bottom: 10px;"
+      },
+      {
+        "selector": "p",
+        "css": "font-size: var(--body--regular); margin-bottom: 0px; line-height: 1.3;"
+      },
+      {
+        "selector": ".text-size-regular",
+        "css": "font-size: var(--heding--h5);"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_moabfpns_vrjvc9",
+    "selector": "div.padding-global",
+    "label": "What We Offer Your end-to-end billing se…",
+    "tag": "div",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T17:17:36.808Z",
+    "innerText": "What We Offer\nYour end-to-end billing service.\nInsurance Verification\n\nCreate a customized complete breakdown with common codes for your office and questions. Verified plans inputted into your software with complete breakdown attached.\n\n\nPayment Posting\n\nPost payments within 24 hours. Keep a clean ledger at all times with accurate and up-to-date information.\n\n\nPatient Billing\n\nThrough customized text, email, or snail mail flows - allow patients to pay their balance conveniently.\n\n\nDetailed Analytics\n\nMeasure each step of the process and identify problems before they become one.\n\n\nClaim Submission & Follow-up\n\nAttachments, clean claims, and denial follow-up off your plate and on to ours.\n",
+    "outerHTML": "<div class=\"padding-global padding-section-medium bottom-off\"><div class=\"container-small\"><div class=\"eyebrow_holder\"><div class=\"eyebrow\">What We Offer</div></div><div class=\"heading-holder\"><h2 class=\"heading-style-h2 text-color-white\">Your end-to-end billing service.</h2></div><div class=\"offer-wrapper tablet-hidden\"><div class=\"offer_grid top\"><div id=\"w-node-_9e8b1761-de33-18d7-9e92-fbb63b507d96-2d042276\" data-w-id=\"9e8b1761-de33-18d7-9e92-fbb63b507d96\" class=\"offer_card\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;\"><div class=\"offer_card-bg\"><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683674a9a7c387ee381dc6c9_insurance-verif.avif\" loading=\"lazy\" alt=\"\" class=\"offer_card-img\"></div><div class=\"offer_card-wrapper center\"><div class=\"offer-card_copy-top\"><h3 class=\"heading-style-h4\">Insurance Verification</h3><p class=\"text-size-small text-color-muted\">Create a customized complete breakdown with common codes for your office and questions. Verified plans inputted into your software with complete breakdown attached.<br></p></div><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683784d43788c93a6c162abd_Group%201597881878.svg\" loading=\"lazy\" width=\"200\" height=\"155\" alt=\"A white card with a light green checkmark inside a darker green cog-shaped badge, and the word 'Verified' in dark text below it.\" class=\"offer-img-1\"></div></div><div data-w-id=\"b8359c12-646a-ff18-358f-c0528501ae91\" class=\"offer_card\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;\"><div class=\"offer_card-bg\"><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683674a9e3793a7609f7b59c_payment-posting-bg.avif\" loading=\"lazy\" alt=\"\" class=\"offer_card-img\"></div><div class=\"offer_card-wrapper horizontal\"><div class=\"offer-card_copy-top\"><h3 class=\"heading-style-h4\">Payment Posting</h3><p class=\"text-size-small text-color-muted\">Post payments within 24 hours. Keep a clean ledger at all times with accurate and up-to-date information.<br></p></div><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683674a9d6f151e419c8104a_payment-posting.svg\" loading=\"lazy\" width=\"250\" height=\"130\" alt=\"Two cards displaying dental services. The top card shows 'Composite Fillings' from 'Delta Dental' for '$2,000'. The bottom card shows 'Oral Check up' from 'Delta Dental' for '$250'. Both have a green Delta Dental logo.\" class=\"offer-img2\"></div></div><div class=\"offer_card\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;\"><div class=\"offer_card-bg\"><div class=\"offer_card-bg-color\"></div></div><div class=\"offer_card-wrapper center text-center\"><div class=\"offer-card_copy-top max-width\"><h3 class=\"heading-style-h4\">Patient Billing</h3><p class=\"text-size-small text-color-muted\">Through customized text, email, or snail mail flows - allow patients to pay their balance conveniently.<br></p></div><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683674a9b9da46e02d464369_patient-billing.svg\" loading=\"lazy\" width=\"350\" height=\"65\" alt=\"A light green rounded rectangle card with '$250 Dental Exam and Cleaning' on the left and a green dot next to the word 'PAID' on the right.\" class=\"offer-img3\"></div></div></div><div class=\"offer_grid bottom\"><div id=\"w-node-_01926a6d-5ad7-69e2-e2ab-4749608dd30f-2d042276\" class=\"offer_card\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;\"><div class=\"offer_card-bg\"><div class=\"offer_card-bg-color\"></div></div><div class=\"offer_card-wrapper space-between\"><div class=\"offer-card_copy-top space-between\"><h3 class=\"heading-style-h4\">Detailed Analytics</h3><p class=\"text-size-small text-color-muted\">Measure each step of the process and identify problems before they become one.<br></p></div></div></div><div class=\"offer_card\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;\"><div class=\"offer_card-bg\"><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683789c4614de1f20566ec87_Rectangle%2040038.avif\" loading=\"lazy\" sizes=\"(max-width: 1171px) 100vw, 1171px\" srcset=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683789c4614de1f20566ec87_Rectangle%2040038-p-500.avif 500w, https://cdn.prod.website-files.com/68362d58021f1b602d042278/683789c4614de1f20566ec87_Rectangle%2040038.avif 1171w\" alt=\"\" class=\"offer_card-img\"></div><div class=\"offer_card-wrapper horizontal\"><div class=\"offer-card_copy-top space-between\"><h3 class=\"heading-style-h4 is-smaller\">Claim Submission &amp; Follow-up</h3><p class=\"text-size-small text-color-muted\">Attachments, clean claims, and denial follow-up off your plate and on to ours.<br></p></div><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683674a9de226591f2a24ecf_claim-submission.svg\" loading=\"lazy\" width=\"300\" height=\"270\" alt=\"A white card showing progress or completion of tasks. The first section has 'Delta Dental' with a checkmark and a green 'Finished' button. Below it are placeholder lines of text. The next section has 'CI-14884' with a checkmark, followed by more placeholder lines of text.\" class=\"offer-img4\"></div></div></div></div></div></div>",
+    "rect": {
+      "x": 0,
+      "y": 290,
+      "width": 1728,
+      "height": 1110
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1728px",
+      "height": "1110.23px",
+      "padding": "84px 28px",
+      "border": "0px none rgb(23, 51, 45)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(23, 51, 45)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "14px",
+      "line-height": "16.8px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 2rem; padding-right: 2rem;"
+      },
+      {
+        "selector": ".padding-global.padding-section-medium.bottom-off",
+        "css": "margin-top: 0px; padding-bottom: 6rem;"
+      },
+      {
+        "selector": ".padding-section-medium",
+        "css": "padding-top: var(--padding-section--medium); padding-bottom: var(--padding-section--medium);"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "screen and (max-width: 991px)"
+      },
+      {
+        "selector": ".padding-global.padding-section-medium.bottom-off",
+        "css": "padding-bottom: 0px;",
+        "media": "screen and (max-width: 991px)"
+      },
+      {
+        "selector": ".padding-section-medium",
+        "css": "padding-top: 4rem; padding-bottom: 4rem;",
+        "media": "screen and (max-width: 991px)"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 1.25rem; padding-right: 1.25rem;",
+        "media": "screen and (max-width: 767px)"
+      },
+      {
+        "selector": ".padding-section-medium",
+        "css": "padding-top: 3rem; padding-bottom: 3rem;",
+        "media": "screen and (max-width: 767px)"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_moabg01v_pesp5c",
+    "selector": "a.button-clickeable",
+    "label": "Schedule a call",
+    "tag": "a",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T17:17:50.275Z",
+    "innerText": "Schedule a call",
+    "outerHTML": "<a data-wf-native-id-path=\"d2318733-31b7-6b7b-9926-c6a420176a15:bd0bd7e9-ec77-a684-20a9-f2a4655e04b4\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"bd0bd7e9-ec77-a684-20a9-f2a4655e04b4\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%22bd0bd7e9-ec77-a684-20a9-f2a4655e04b2%22%2C%22instanceId%22%3A%22d2318733-31b7-6b7b-9926-c6a420176a15%22%7D%5D\" href=\"/demo-call\" data-wf-event-ids=\"157039079\" class=\"button-clickeable w-inline-block\"><span class=\"sr-only\">Schedule a call</span></a>",
+    "rect": {
+      "x": 782,
+      "y": 296,
+      "width": 165,
+      "height": 32
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "absolute",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "164.703px",
+      "height": "31.6562px",
+      "border": "0px none rgb(23, 51, 45)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(23, 51, 45)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "15.75px",
+      "font-weight": "500",
+      "line-height": "20.475px",
+      "letter-spacing": "-0.315px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "z-index": "5",
+      "transition": "all",
+      "cursor": "pointer"
+    },
+    "cssRules": [
+      {
+        "selector": "a",
+        "css": "background-color: rgba(0, 0, 0, 0);"
+      },
+      {
+        "selector": "a:active, a:hover",
+        "css": "outline: 0px;"
+      },
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": ".w-inline-block",
+        "css": "max-width: 100%; display: inline-block;"
+      },
+      {
+        "selector": "a",
+        "css": "color: inherit; text-decoration: none;"
+      },
+      {
+        "selector": ".button-clickeable",
+        "css": "z-index: 5; width: 100%; height: 100%; position: absolute; inset: 0%;"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_moabgpc6_yebz0y",
+    "selector": "div.padding-global",
+    "label": "Product Portal Genie CDT Codes Genie Sig…",
+    "tag": "div",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T17:18:23.046Z",
+    "innerText": "Product\nPortal Genie\nCDT Codes Genie\nSign In\nServices\nInsurance Verification\nInsurance Billing\nPatient Billing\nResources\nBlog\nVideos\nDownloads\nDental Billing 101\nCompany\nWho We Serve\nDoctors\nOffice Managers\nDSOs\nBlog\nCareers\nEngineering\nBillers\nContact Us\nsupport@daydream.dental\nSchedule a call\nSchedule a call\nSchedule a call\n\n© 2026 DayDream Technology, Inc. All rights reserved.\n\nTerms of Serivce\nPrivacy Policy\nFulfillment Policy\nCookie Policy\nHIPAA",
+    "outerHTML": "<div class=\"padding-global padding-section-xsmall\"><div class=\"container-large\"><div class=\"footer-wrapper\"><div class=\"footer-top\"><div class=\"footer-col is-logos\"><div class=\"footer_row\"><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908cb\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908cb\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/\" aria-current=\"page\" class=\"footer-logo_link w-inline-block w--current\"><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/6837a4efa45d9392ce72eb32_Vector.svg\" loading=\"lazy\" width=\"300\" height=\"50\" alt=\"DayDream Logo\" class=\"footer_logo\"><div class=\"descriptive-text\">DayDream</div></a></div><div class=\"footer_row\"><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:6b200e1c-cf82-676e-9e4d-cff02e353aca\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"6b200e1c-cf82-676e-9e4d-cff02e353aca\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"https://hipaa.daydream.dental\" target=\"_blank\" class=\"footer-logo_link w-inline-block\"><img src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/6837a50e81175b18e99a95c8_hipaa.webp\" loading=\"lazy\" width=\"80\" height=\"40\" alt=\"HIPAA Compliant logo\" class=\"hipaa-logo\"></a></div><div class=\"footer_row\"><div class=\"socials_wrapper\"><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908d1\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908d1\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"https://www.facebook.com/profile.php?id=61566871104645\" target=\"_blank\" class=\"social_link w-inline-block\"><div class=\"social_icon w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 107 186\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"svgTitle svgDesc\">\n  <title id=\"svgTitle\">Facebook Logo</title>\n  <desc id=\"svgDesc\">Stylized version of the Facebook logo, representing the letter F with a geometric, outlined design in vector format.</desc>\n  <path d=\"M33.7787 47.5528V74.2138H4.52234V107.125H33.7787V181.281H68.4027V107.125H97.9062L101.437 74.2314H68.4027V47.5528C68.4027 42.8386 72.1281 40.4903 73.6995 39.0425C76.4716 36.6766 89.855 36.3058 89.855 36.3058H102.974V6.48438C96.1433 5.46395 89.2555 4.87424 82.3511 4.71875C32.7723 4.71875 33.7787 47.5528 33.7787 47.5528Z\" stroke=\"currentColor\" stroke-width=\"8\" stroke-miterlimit=\"10\"></path>\n</svg></div><div class=\"descriptive-text\">Facebook Link</div></a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908d3\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908d3\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"https://twitter.com/daydreamdental\" target=\"_blank\" class=\"social_link w-inline-block\"><div class=\"social_icon is-x w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 136 136\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"svgTitle svgDesc\">\n  <title id=\"svgTitle\">X Logo (formerly Twitter)</title>\n  <desc id=\"svgDesc\">A stylized letter X formed by intersecting geometric shapes, representing the logo of X, the social media platform formerly known as Twitter.</desc>\n  <path d=\"M80.9221 57.6181L131.432 0.166504H119.465L75.5867 50.0405L40.567 0.166504H0.166626L53.1351 75.5916L0.166626 135.833H12.1344L58.4422 83.1522L95.4329 135.833H135.833L80.9221 57.6181ZM64.5252 76.2537L59.1502 68.7384L16.4502 8.99477H34.8352L69.3055 57.2277L74.6578 64.743L119.459 127.435H101.074L64.5252 76.2537Z\" fill=\"currentColor\"></path>\n</svg></div><div class=\"descriptive-text\">X Link</div></a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908d5\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908d5\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"https://www.linkedin.com/company/daydream-dental\" target=\"_blank\" class=\"social_link w-inline-block\"><div class=\"social_icon w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 191 190\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"svgTitle svgDesc\">\n  <title id=\"svgTitle\">LinkedIn Logo</title>\n  <desc id=\"svgDesc\">Outlined vector version of the LinkedIn logo showing the iconic 'in' symbol and the abstract shapes representing profile and networking elements.</desc>\n  <path d=\"M137.256 63.4829C142.117 63.2784 146.913 63.34 151.486 64.0327L152.399 64.1802L152.407 64.1812C159.993 65.4675 166.663 68.7453 172.254 74.1001L172.792 74.6245L172.802 74.6343C178.055 79.8208 181.593 86.0338 183.597 93.0981L183.786 93.7847C184.583 96.7909 185.168 99.8805 185.696 103.058L186.21 106.269C186.628 109.062 186.837 111.93 186.837 114.725V114.731C186.874 138.431 186.874 162.132 186.875 185.835C176.641 185.832 166.401 185.809 156.14 185.866C156.173 166.801 156.229 147.688 156.146 128.592L156.1 120.173V120.163L156.088 119.382C156.009 115.466 155.597 111.31 154.54 107.355L154.535 107.337L154.53 107.321L154.318 106.592C152.042 99.1311 147.027 93.5646 139.334 90.7554H139.333C133.192 88.5046 126.881 88.0194 120.499 89.5093L119.88 89.6597C112.153 91.6147 107.004 96.7639 103.357 102.939C100.447 107.86 99.835 113.128 99.7378 117.845L99.7251 118.781V118.787C99.5779 141.123 99.6462 163.432 99.6489 185.734C89.418 185.758 79.2987 185.761 69.063 185.761V68.0005C79.2199 68.0518 89.4038 68.0302 99.5376 68.0259V82.936L102.354 83.6392C102.377 83.6482 102.401 83.6591 102.425 83.6685C102.563 83.7207 102.752 83.7862 102.98 83.8433L105.523 84.479L107.121 82.4019C108.775 80.2508 110.002 78.4826 111.538 76.6177L111.545 76.6089L111.553 76.5991C115.553 71.6809 120.507 68.0611 126.324 65.8188L126.889 65.606L126.892 65.605C129.989 64.4674 133.358 63.7448 136.608 63.521L137.256 63.4829Z\" stroke=\"currentColor\" stroke-width=\"8\"></path>\n  <path d=\"M36.9122 127.475C36.9122 146.922 36.8771 166.393 36.9445 185.86C26.6258 185.769 16.3071 185.768 5.9884 185.859C6.02382 146.858 6.02371 107.823 5.9884 68.8213C16.2859 68.8807 26.585 68.8809 36.9122 68.8213V127.475Z\" stroke=\"currentColor\" stroke-width=\"8\"></path>\n  <path d=\"M20.9133 4.79834L21.0247 4.80127L21.135 4.79932C26.2539 4.67491 30.0681 6.44705 32.6292 9.146C35.1503 11.803 36.6864 15.6058 36.7942 20.0337L36.8 20.4634C36.8156 25.1329 35.2031 28.9844 32.5237 31.6567C29.935 34.2385 26.1005 35.968 21.0881 36.0591L20.5999 36.063H20.5872C15.8155 36.0629 11.9572 34.3701 9.29907 31.6724C6.638 28.9717 4.95932 25.0389 4.97485 20.1636C5.00529 11.3449 11.2077 4.49803 20.9133 4.79834Z\" stroke=\"currentColor\" stroke-width=\"8\"></path>\n</svg></div><div class=\"descriptive-text\">LinkedIn Link</div></a></div></div></div><div class=\"footer-col\"><div class=\"footer-heading\">Product</div><a href=\"/payers\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:6dcf8765-f1e5-26a9-1ccf-999a31244702\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"6dcf8765-f1e5-26a9-1ccf-999a31244702\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Portal Genie</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/cdt-codes\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:935ac7eb-956f-d756-caff-aadefa33b22b\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"935ac7eb-956f-d756-caff-aadefa33b22b\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">CDT Codes Genie </div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"https://app.daydream.dental/dashboard\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:bcca5bee-b45b-c803-c733-6ddac75bcb34\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"bcca5bee-b45b-c803-c733-6ddac75bcb34\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Sign In</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/testimonials\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:0210a3ab-c652-e31e-12eb-6b7b3c780750\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"0210a3ab-c652-e31e-12eb-6b7b3c780750\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder hide w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Testimonials</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a></div><div class=\"footer-col\"><div class=\"footer-heading\">Services</div><a href=\"/services/insurance-verifications\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:31beae8a-eb6d-c1e0-d5ae-892cd31bc5f5\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"31beae8a-eb6d-c1e0-d5ae-892cd31bc5f5\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Insurance Verification</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/services/insurance-billing\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:e124462e-c888-5e0d-f44d-7d384fdbd881\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"e124462e-c888-5e0d-f44d-7d384fdbd881\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Insurance Billing</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/services/patient-billing\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:eb116f22-1914-3f1b-ec53-c8e53f12d14f\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"eb116f22-1914-3f1b-ec53-c8e53f12d14f\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Patient Billing</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a></div><div class=\"footer-col\"><div class=\"footer-heading\">Resources</div><a href=\"/blog\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:7269cd99-c2f6-d9d2-0ce5-b95f727b16e6\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"7269cd99-c2f6-d9d2-0ce5-b95f727b16e6\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Blog</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/videos-overview\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:7269cd99-c2f6-d9d2-0ce5-b95f727b16ea\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"7269cd99-c2f6-d9d2-0ce5-b95f727b16ea\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Videos</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/downloads-overview\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:7269cd99-c2f6-d9d2-0ce5-b95f727b16ee\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"7269cd99-c2f6-d9d2-0ce5-b95f727b16ee\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Downloads</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"https://www.dentalbilling101.com/signup\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:205ddc74-279c-123d-d1f5-936b1a4793ba\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"205ddc74-279c-123d-d1f5-936b1a4793ba\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Dental Billing 101</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a></div><div class=\"footer-col\"><div class=\"footer-heading\">Company</div><div class=\"sub-footer-wrapper\"><div class=\"footer-link\">Who We Serve</div><a href=\"/audiences/daydream-for-doctors\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:386c29dd-a56e-49f8-6ded-72afb16f9f0d\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"386c29dd-a56e-49f8-6ded-72afb16f9f0d\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder sublink w-inline-block\"><div class=\"footer-link sublink\" style=\"color: rgb(255, 255, 255);\">Doctors</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/audiences/daydream-for-office-managers\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:78f1c4c9-2c77-4d2d-58c6-c9a2baea8661\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"78f1c4c9-2c77-4d2d-58c6-c9a2baea8661\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder sublink w-inline-block\"><div class=\"footer-link sublink\" style=\"color: rgb(255, 255, 255);\">Office Managers</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/audiences/daydream-for-dso\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:1716841d-96ed-3edf-df2e-c7231f52c76f\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"1716841d-96ed-3edf-df2e-c7231f52c76f\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder sublink w-inline-block\"><div class=\"footer-link sublink\" style=\"color: rgb(255, 255, 255);\">DSOs</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a></div><a href=\"/blog\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:070afeff-2663-8535-5c19-d96dd9d22e4b\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"070afeff-2663-8535-5c19-d96dd9d22e4b\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" data-wf-event-ids=\"157039080\" class=\"footer-link_holder w-inline-block\"><div class=\"footer-link\" style=\"color: rgb(255, 255, 255);\">Blog</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><div class=\"sub-footer-wrapper\"><div class=\"footer-link\">Careers</div><a href=\"/careers/engineering\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:44698b87-2b4d-918f-2d1a-fb38ae9f3a36\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"44698b87-2b4d-918f-2d1a-fb38ae9f3a36\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder sublink w-inline-block\"><div class=\"footer-link sublink\" style=\"color: rgb(255, 255, 255);\">Engineering</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a><a href=\"/careers/billers\" data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:44698b87-2b4d-918f-2d1a-fb38ae9f3a3a\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"44698b87-2b4d-918f-2d1a-fb38ae9f3a3a\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" class=\"footer-link_holder sublink w-inline-block\"><div class=\"footer-link sublink\" style=\"color: rgb(255, 255, 255);\">Billers</div><div class=\"footer-link_line\" style=\"transform: translate3d(-101%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"></div></a></div></div><div class=\"footer-col is-contact\"><div class=\"footer-heading\">Contact Us</div><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908ec\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908ec\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"mailto:support@daydream.dental\" class=\"footer-link\">support@daydream.dental</a><div data-w-id=\"5924f954-cf7f-f12e-0af4-ef76a85908ee\" class=\"button is-footer\"><img loading=\"lazy\" src=\"https://cdn.prod.website-files.com/68362d58021f1b602d042278/683639427567e4c61d2e19c3_Subtract-dark.svg\" alt=\"Star\" class=\"button-star\" style=\"transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><div class=\"button-text\">Schedule a call</div><div class=\"button-wrapper\"><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908f3\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908f3\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/demo-call\" data-wf-event-ids=\"157039079\" class=\"button-clickeable w-inline-block\"><span class=\"sr-only\">Schedule a call</span></a><button data-a=\"google.com\" class=\"button-element\"><span class=\"sr-only\">Schedule a call</span></button></div></div></div></div><div class=\"footer-bottom\"><div class=\"footer-col is-policies\"><p class=\"text-size-xsmall\">© <span class=\"copyright-year\">2026</span> DayDream Technology, Inc. All rights reserved.</p></div><div class=\"footer-col horizontal\"><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:db39e291-a341-d86a-c890-9f9ed52fdedd\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"db39e291-a341-d86a-c890-9f9ed52fdedd\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/terms-of-service\" class=\"footer-link policies\">Terms of Serivce</a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a8590900\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a8590900\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/privacy-policy\" class=\"footer-link policies\">Privacy Policy</a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a85908fe\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a85908fe\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/fullfillment-policy\" class=\"footer-link policies\">Fulfillment Policy</a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:5924f954-cf7f-f12e-0af4-ef76a8590902\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"5924f954-cf7f-f12e-0af4-ef76a8590902\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"/cookie-policy\" class=\"footer-link policies\">Cookie Policy</a><a data-wf-native-id-path=\"5924f954-cf7f-f12e-0af4-ef76a8590905:bfc671c8-10b0-2930-19c4-680d2b8e76bd\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"bfc671c8-10b0-2930-19c4-680d2b8e76bd\" data-wf-component-context=\"%5B%7B%22componentId%22%3A%225924f954-cf7f-f12e-0af4-ef76a85908c4%22%2C%22instanceId%22%3A%225924f954-cf7f-f12e-0af4-ef76a8590905%22%7D%5D\" href=\"https://hipaa.daydream.dental/\" class=\"footer-link policies\">HIPAA</a></div></div></div></div></div>",
+    "rect": {
+      "x": 0,
+      "y": 641,
+      "width": 1728,
+      "height": 458
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1728px",
+      "height": "457.641px",
+      "padding": "42px 28px",
+      "border": "0px none rgb(255, 255, 255)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(255, 255, 255)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "14px",
+      "line-height": "16.8px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 2rem; padding-right: 2rem;"
+      },
+      {
+        "selector": ".padding-section-xsmall",
+        "css": "padding-top: var(--padding-section--xsmall); padding-bottom: var(--padding-section--xsmall);"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "screen and (max-width: 991px)"
+      },
+      {
+        "selector": ".padding-global",
+        "css": "padding-left: 1.25rem; padding-right: 1.25rem;",
+        "media": "screen and (max-width: 767px)"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      }
+    ]
+  }
+]
